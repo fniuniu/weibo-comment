@@ -1,0 +1,93 @@
+body {
+    position: absolute;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    background: rgba(122, 197, 205, 0.5);
+}
+.jen-container {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    top: 5%;
+    left: 10%;
+    width: 80%;
+    height: 90%;
+    border-radius: 20px;
+    background: rgba(255, 250, 250, 1);
+
+}
+#jen-input {
+    position: relative;
+    left: 7%;
+    top: 40px;
+    width: 86%;
+    height: 30%;
+    border: 2px solid rgb(220, 220, 220);
+    border-radius: 22px;
+    font-size: 20px;
+}
+.jen-explanation {
+    position: relative;
+    margin: 0 6%;
+    top: 30px;
+    text-align: right;
+    border-bottom: 2px solid rgba(220, 220, 220, 1);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+p.jen-tip {
+    display: inline;
+    font-family: Arial Verdana ;
+    font-size: 25px;
+    color: gray;
+}
+span {
+    font-family: Verdana;
+    font-size: 38px;
+}
+.jen-button {
+    height: 38px;
+    width: 20%;
+    top: 30px;
+    right:0px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    background-color: #4169E1;rgb(30, 144, 255);#6495ED;
+    font-size: 32px;
+    font-family: "Comic sans";
+}
+.comments {
+    margin: 30px 46px;
+
+}
+.comment {
+    position: relative;
+    border-bottom: 2px dashed rgb(220, 220, 220);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: top;
+}
+.jen-img {
+
+}
+p.user {
+    position: absolute;
+    display:inline-block;
+    margin: 0;
+    padding: 0;
+    top: 12px;
+    left: 100px;
+    color:#4f4f4f;
+    font-family: Arial;
+}
+time {
+    position: absolute;
+    width: 70px;
+    margin: 0;
+    padding: 0;
+    top: 40px;
+    color:#4f4f4f;
+    font-family: Arial;
+}
